@@ -2,17 +2,17 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-<h2 align="center">About me</h2>
+<h2 align="center">Môn học</h2>
 
 ```golang
-- Tên môn học: Thương mại điện tử
-- Mã môn học: IS334
-- Mã lớp: IS334.N21.HTCL
+- Tên môn học: Kho dữ liệu và OLAP
+- Mã môn học: IS217
+- Mã lớp: IS217.N22.HTCL
 - Năm học: 2023-2024
-- Giảng viên: Ths. Đỗ Duy Thanh
+- Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn
 ```
 
-<h2 align="center">Thành viên</h2>
+# Thành viên
 
 | MSSV | Họ và tên | Gmail | Github |
 |--------------|-------|------|-------|
