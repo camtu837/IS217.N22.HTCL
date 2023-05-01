@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-<h2 align="center">Môn học</h2>
+# Môn học
 
 ```golang
 Tên môn học: Kho dữ liệu và OLAP
@@ -21,4 +21,4 @@ Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn
 | 20521847 | Nguyễn Thanh Sơn | 20521847@gm.uit.edu.vn |
 
 
-<h2 align="center">Bài báo cáo</h2>
+# Bài báo cáo
