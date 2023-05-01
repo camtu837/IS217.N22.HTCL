@@ -5,11 +5,11 @@
 <h2 align="center">Môn học</h2>
 
 ```golang
-- Tên môn học: Kho dữ liệu và OLAP
-- Mã môn học: IS217
-- Mã lớp: IS217.N22.HTCL
-- Năm học: 2023-2024
-- Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn
+Tên môn học: Kho dữ liệu và OLAP
+Mã môn học: IS217
+Mã lớp: IS217.N22.HTCL
+Năm học: 2023-2024
+Giảng viên: Ths. Nguyễn Thị Kim Phụng - phungntk@uit.edu.vn
 ```
 
 # Thành viên
